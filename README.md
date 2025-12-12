@@ -19,3 +19,10 @@ A detailed, theoretical, four-level horse pedigree chart for a foal named 'The r
 * the resulting oguru cap (horse)
 * sire: vodka & winning ticket - grandparents (vodka) oguri cap and winning ticket - great grandparents (winning ticket) oguri cap & mejiro ryan and (vodka) winning ticket & oguri cap. "draw" it on a white background as a full family chart 
 
+(info) UPDATE - IMPORTANT: 
+* The prompt works inserted into AI. this program should be considered abandoned for the time being. 
+
+
+
+
+lmao
