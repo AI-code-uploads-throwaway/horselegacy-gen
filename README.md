@@ -1,0 +1,2 @@
+# horselegacy-gen
+read readme
